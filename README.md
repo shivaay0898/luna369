@@ -2,7 +2,7 @@
 
 Welcome to our app Luna!
 
-Its an app developed to save your menstrual data along with an PCOD detection system.
+Its an app developed to save your menstrual data along with a PCOD detection system.
 
 ### What's different?
 
